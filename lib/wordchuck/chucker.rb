@@ -71,7 +71,7 @@ module Wordchuck
         tmps << "# This locale file is auto-generated from the Wordchuck API by the Wordchuck Ruby gem. Any manual\n"
         tmps << "# updates to an rb file will be lost when this file is regenerated. This current file will be only\n"
         tmps << "# versioned once, or discarded.\n"
-        tmps << "#   http://wordchuck.com\n"
+        tmps << "# http://wordchuck.com\n"
         tmps << "#\n"
         tmps << "# encoding: UTF-8\n"                      
         tmps << "##\n\n"
