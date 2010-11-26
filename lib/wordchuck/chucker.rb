@@ -72,6 +72,8 @@ module Wordchuck
         tmps << "# updates to an rb file will be lost when this file is regenerated. This current file will be only\n"
         tmps << "# versioned once, or discarded.\n"
         tmps << "#   http://wordchuck.com\n"
+        tmps << "#\n"
+        tmps << "# encoding: UTF-8\n"                      
         tmps << "##\n\n"
         fd.write(tmps)
       end

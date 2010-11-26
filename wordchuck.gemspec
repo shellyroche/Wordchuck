@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.version = "0.0.11"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Shelly Roche", "Eric Woodward"]
-  s.date = %q{2010-10-04}
+  s.authors = ["Shelly Roche"]
+  s.date = %q{2010-11-26}
   s.description = %q{gem for the Wordchuck website translation service for locale file generation}
   s.email = %q{shelly@wordchuck.com}
   s.extra_rdoc_files = [

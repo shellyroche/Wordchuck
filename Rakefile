@@ -27,7 +27,7 @@ begin
 
     gem.email = "shelly@wordchuck.com"
     gem.homepage = "http://github.com/shellyroche/wordchuck"
-    gem.authors = ["Shelly Roche", "Eric Woodward"]
+    gem.authors = ["Shelly Roche"]
     gem.rubyforge_project = "wordchuck"
     gem.files = FileList['[A-Z]*', 'lib/**/*.rb', 'lib/tasks/*.rake', 'test/**/*.rb']
 
